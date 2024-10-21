@@ -1,12 +1,12 @@
 Master Student\
 Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China\
-**E-mail**: xry@stu.ecnu.edu.cn (work)/xury5520@outlook.com (permanent)\
+**E-mail**: xry@stu.ecnu.edu.cn (work) / xury5520@outlook.com (permanent)\
 Address: Room B416, Science Building / Room 607, Dishui Lake International Software Engineering Institute
 
 ---
 # Overview
 
-Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https://tingsu.github.io/) at [East China Normal University](https://english.ecnu.edu.cn/). His research interests includes but not limited to programming languages, compilers, program analysis, and testing.
+Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https://tingsu.github.io/) at [East China Normal University](https://english.ecnu.edu.cn/). His research interests include but not limited to programming languages, compilers, program analysis, and testing.
 
 # Publications
 
