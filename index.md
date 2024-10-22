@@ -12,7 +12,7 @@ Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https:
 
 - **IFSE: Taming Closed-box Functions in Symbolic Execution via Fuzz Solving**
 	- Qichang Wang, Chuyang Chen (Co-first author), **Ruiyang Xu**, Haiying Sun, Chengcheng Wan, Ting Su, Yueling Zhang and Geguang Pu
-	- (ICSE under review)
+	- (ICSE under review) [tool](https://github.com/ecnusse/ifse), [video](https://youtu.be/xMv6_MOlE-I).
 
 # Work Experience
 
