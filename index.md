@@ -1,7 +1,9 @@
 Master Student\
-Shanghai Key Laboratory of Trustworthy Computing, East China Normal University, China\
+East China Normal University, China\
 **E-mail**: xry@stu.ecnu.edu.cn (work) / xury5520@outlook.com (permanent)\
 Address: Room B416, Science Building / Room 607, Dishui Lake International Software Engineering Institute
+
+[blog](./blog/blog_content.html)
 
 ---
 # Overview
