@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="./myself.jpeg" alt="Image Description" style="margin-right: 10px; max-width: 150px;">
+  <img src="./image/myself.jpeg" alt="Image Description" style="margin-right: 10px; max-width: 150px;">
   <p>Master Student<br>East China Normal University, China<br>
      <strong>E-mail</strong>: <a href="mailto:xry@stu.ecnu.edu.cn">xry@stu.ecnu.edu.cn</a> /  
      <a href="mailto:xury5520@outlook.com">xury5520@outlook.com</a><br>
