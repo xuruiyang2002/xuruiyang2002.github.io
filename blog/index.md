@@ -1,4 +1,4 @@
-# Content
+# Content of Blog
 
-[Senior Grind: Why I choose to pursue a Phd](./senior_grind.html)
+[Senior Grind: Why I choose to pursue a Phd](./senior_grind)
 
