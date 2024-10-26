@@ -1,6 +1,6 @@
 Master Student\
 East China Normal University, China\
-**E-mail**: [work](xry@stu.ecnu.edu.cn) /  [permanent](xury5520@outlook.com)\
+**E-mail**: [xry@stu.ecnu.edu.cn](xry@stu.ecnu.edu.cn) /  [xury5520@outlook.com](xury5520@outlook.com)\
 Address: Room B416, Science Building / Room 607, Dishui Lake
 
 ---
