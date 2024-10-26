@@ -3,9 +3,8 @@
   <p style="margin: 3; text-align: left;">
     Master Student<br><br>
     East China Normal University, China<br><br>
-    <strong>E-mail</strong>: <a href="mailto:xry@stu.ecnu.edu.cn">xry@stu.ecnu.edu.cn</a> /
-    <a href="mailto:xury5520@outlook.com">xury5520@outlook.com</a><br><br>
-    Address: Room B416, Science Building / Room 607, Dishui Lake
+    <strong>E-mail</strong>: <a href="mailto:xry@stu.ecnu.edu.cn">xry@stu.ecnu.edu.cn</a><br><br>
+    Address: Room 607, Dishui Lake Building
   </p>
 </div>
 
