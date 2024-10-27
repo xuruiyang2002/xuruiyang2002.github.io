@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <img src="./image/myself.jpeg" alt="Image Description" style="margin-right: 20px; max-width: 200px;">
+  <img src="./image/myself.jpeg" alt="Image Description" style="margin-right: 45px; max-width: 220px;">
   <p style="margin: 3; text-align: left;">
     Master Student<br><br>
     East China Normal University, China<br><br>
