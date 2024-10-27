@@ -1,4 +1,5 @@
 # Content of Blog
 
-[Senior Grind: Why I choose to pursue a Phd](./senior_grind)
+## Oct 2024
 
+- [Fourth Year Undergrad Grind: Why I choose to pursue a Phd](./fourth-year-undergrad)
