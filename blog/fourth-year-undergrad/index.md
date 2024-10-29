@@ -10,7 +10,7 @@ Eventually, Glaucon understands that what he previously thought of as **justice 
 
 Back on topic, I don't feel any regrets, nor do I bother to explain myself to those who feel pity for me, but rather feel pity for them. At least writing is enjoyable for me now, at least it was enjoyable for me recently when I was reading this Allan Bloom essay at home, at least my daily life is self-contained. Sitting at my desk in the dead of night, reading and looking up information and making notes is a moment I enjoy. The loudest sound in the room at this time is probably the wind from the air conditioner.
 
-Written on Otc 26, 2024, in Anhui Province.
+Written on Oct 26, 2024, in Anhui Province.
 
 - - -
 
