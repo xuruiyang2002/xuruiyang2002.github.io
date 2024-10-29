@@ -16,11 +16,8 @@ Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https:
 
 # Education
 
-- **Master's in Software Engineering**, [East China Normal University](https://english.ecnu.edu.cn/)  
-  Sep 2024 - Present  
-
-- **Bachelor's in Software Engineering**, [JiLin University](https://www.jlu.edu.cn/#)  
-  Sep 2020 - Jul 2024  
+- Sep 2024 - Present. **Master Degree in Software Engineering**, [East China Normal University](https://english.ecnu.edu.cn/)  
+- Sep 2020 - Jul 2024. **Bachelor Degree in Software Engineering**, [JiLin University](https://www.jlu.edu.cn/#)  
 
 
 # Publications
