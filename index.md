@@ -16,15 +16,15 @@ Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https:
 
 # Education
 
-- Sep 2024 - Present. **Master Degree in Software Engineering**, [East China Normal University](https://english.ecnu.edu.cn/)  
-- Sep 2020 - Jul 2024. **Bachelor Degree in Software Engineering**, [JiLin University](https://www.jlu.edu.cn/#)  
+- Sep 2024 - Present. Master Degree in Software Engineering, [East China Normal University](https://english.ecnu.edu.cn/)  
+- Sep 2020 - Jul 2024. Bachelor Degree in Software Engineering, [JiLin University](https://www.jlu.edu.cn/#)  
 
 
-# Publications
+# Conference Papers
 
 - **IFSE: Taming Closed-box Functions in Symbolic Execution via Fuzz Solving**
   - Qichang Wang, Chuyang Chen (Co-first author), **Ruiyang Xu**, Haiying Sun, Chengcheng Wan, Ting Su
-  - (ICSE under review) [tool](https://github.com/ecnusse/ifse), [video](https://youtu.be/xMv6_MOlE-I).
+  - [ICSE Demonstrations](https://conf.researchr.org/track/icse-2025/icse-2025-demonstrations) (under review), [Source Repository](https://github.com/ecnusse/ifse), [Presentation Video](https://youtu.be/xMv6_MOlE-I).
 
 # Work Experience
 
