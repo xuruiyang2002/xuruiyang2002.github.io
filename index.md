@@ -30,7 +30,6 @@ Ruiyang Xu is a first-year master's student supervised by [Prof. Ting Su](https:
 
 
 - Sep 2024 - Present. Teaching Assistant in [Software Analysis, Testing and Verification](https://github.com/ecnu-sa-labs/ecnu-sa-labs)
-
 - May 2023- May 2024. Huawei Research Project ("Slicing Code Simulation Verification Technology")
   - Working on symbolic execution, fuzzing and SMT solvers
 
