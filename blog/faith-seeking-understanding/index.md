@@ -1,0 +1,12 @@
+> In research working, proposing a problem can be more important than knowing the answer. Because the assumption comes first, then the verification follows. The assumption itself is the challenge to the idea of rational supremacy. But what is the precondition of the assumption? It is faith/belief/trust. Faith comes before rationality.
+> https://www.bilibili.com/video/BV1MV7gzKEzd
+
+After watching the wonderful video, several interesting thoughts that question rationality came to mind: (1) Can ful rationality definitely lead to the blessedness/goodness/a positive state? (2) What is the outcome of infinitely amplifying our rationality? (3) ... ...
+
+In human history, we leveraged our rationality to explore, understand and create wonderful things. Especially with the rise of the [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment), human amplified rationality and found it a really powerful tool. We can suspect anything and then deconstruct them, finally build the new.  However, we still need things other than rationality, such as faith and intuition. Because suspicion itself is worthy of suspicion and deconstruction itself is worth being deconstructed. After suspecting and then constructing, we may easily fall into _nihility_, which is the biggest sea monster.
+
+There are so many sea monsters in our our voyage through life, such as eros and the pursuit of power. However, the biggest one I think is nihility, which emerges only when the significance is deconstructed. For example, in human society, [noble lies](https://en.wikipedia.org/wiki/Noble_lie) are in many places, which assigns corresponding significance to its followers. Once followers have seen enough flaws in them, and then, assuming they have some rationality, they begin to suspect and deconstruct. At that time, followers feel so confused, leading to two possible results: (1) nihility, which is the beginning of indulgence, (2) reconstruction, which rebuild your own solid significance ground (but really hard in a modern society with high individuality and diversified values).
+
+To avoid falling into nihility, I think it's better to not infinitely amplify our rationality (not means amplifying definitely leads to nihility, not sure). As mentioned before, suspicion itself is worthy of suspicion and deconstruction itself is worth being deconstructed. We should allow things other than rationality to play a role, such as faith and intuition. Being in faith is not blindly following, but keeping an open mind to the world.
+
+Written on Jn 29, 2025, in Shanghai, China.
