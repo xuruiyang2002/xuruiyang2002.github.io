@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>ArmGo</title>
+</head>
+<body>
+
+<h1>ArmGo</h1>
+
+<h2>Property-Based Testing of Wafer Handling Robots via Model-Based Planning and Fuzzing</h2>
+
+<p>
+<i>Abstract</i>&mdash;Wafer handling robots (WHRs) in semiconductor manufacturing require ultra-precise control software, where bugs can cause severe mechanical damage and costly downtime, making reliability validation critical. Yet no existing work addresses WHR validation. In this experience paper, we introduce a property-based testing approach for WHRs. Our key observation is that the system requirements of WHRs could be used as the properties for bug detection. However, applying property-based testing to WHR systems is challenging due to the input generation challenge. Complex action dependencies make it difficult to generate valid test inputs, while enormous state spaces hinder achieving adequate test coverage. To address this, we propose model-based planning and fuzzing. Our insight is that the WHR can be represented as a state-based model. Based on this model, we systematically generate valid test inputs through backward planning, then explore diverse scenarios through parameter and environment mutation. We implemented our approach as the ArmGo tool and evaluated it on a production WHR deployed in industrial lithography equipment. ArmGo discovered 21 previously unknown bugs (all confirmed, 15 fixed), including axis limit violations, entanglement issues, and missing interlock checks. ArmGo has been deployed in the continuous integration (CI) pipeline of our industrial partner and is actively used for validating WHRs. We also have distilled a number of practical lessons learned based on our investigation.
+</p>
+
+<p>
+Paper: <a href="../files/ase26-ArmGo.pdf">[PDF]</a> and its <a href="https://doi.org/10.1145/3832783.3834360">[DOI]</a>
+</p>
+
+<p>
+Artifact (sanitized and simplified for illustration purposes): <a href="https://github.com/xuruiyang2002/armgo">[Link]</a>
+</p>
+
+<hr>
+<p><a href="../">Back to home</a></p>
+
+</body>
+</html>
